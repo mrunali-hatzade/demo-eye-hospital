@@ -1,0 +1,9 @@
+{
+  "name": "netradeep-eye-hospital",
+  "version": "1.0.0",
+  "description": "Netradeep Eye Hospital Website",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
